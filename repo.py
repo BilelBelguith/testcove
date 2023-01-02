@@ -16,9 +16,9 @@ import json
 
 #print(token)
 
-reponame = input ("please enter the repo name you want to create : ")
+reponame = 'azeaze'
 
-token = input('please enter your token access ')
+token = 'aazdazd'
 
 GIT_HUB_URL = "https://api.github.com/"
 
